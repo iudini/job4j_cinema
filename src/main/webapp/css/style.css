@@ -1,0 +1,11 @@
+#tbody span {
+    color: aqua;
+}
+
+#tbody td {
+    background-color: antiquewhite;
+}
+
+#tbody td[occupied="true"] {
+    background-color: darkgrey;
+}
